@@ -94,7 +94,7 @@ img{
 #section3 h3{
   font-size:30px;
 }
-#section3 > ul> li{
+#section3 > ul > li{
   list-style-type:none;
   text-align:center;
   color:#94D7F4;
@@ -104,10 +104,8 @@ img{
   text-align:center;
   color:#94D7F4;
 }
-#section4  ul > li{
+#section4 > ul > li{
   list-style-type:none;
-  text-align:center;
-  color:#94D7F4;
 }
 #section5{
   text-align:center;
