@@ -80,9 +80,9 @@ img{
   border-radius:30%;
   height:25%;
   width:25%;
-  object-fit:contain;
   margin-left:auto;
   margin-right:auto;
+  text-align:center;
 
 }
 #section2{
